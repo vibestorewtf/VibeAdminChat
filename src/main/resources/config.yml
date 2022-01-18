@@ -1,0 +1,6 @@
+# Dostępne Placeholdery:
+# {ADMIN} - Nick admina
+# {MSG} - Wiadomość
+permission-error: "&7Nie posiadasz permisji &cvibeadminchat.execute"
+usage: "&7Poprawne uzycie: &c/adminchat [wiadomosc]"
+adminchat-message: "&4&lAdminChat&8: &c{ADMIN} &8: &c{MSG}"

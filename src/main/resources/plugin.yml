@@ -1,0 +1,9 @@
+name: VibeAdminChat
+version: '${project.version}'
+main: wtf.undefined.vibeadminchat
+api-version: 1.18
+author: undefined
+
+commands:
+  adminchat:
+    aliases: [ac]
